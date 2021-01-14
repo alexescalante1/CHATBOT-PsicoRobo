@@ -1,0 +1,126 @@
+{
+  "intenciones": [
+    {
+      "etiqueta": "saludo",
+      "patrones": [
+        "Hola",
+        "Oye",
+        "Cómo estás",
+        "¿Hay alguien ahí?",
+        "Hola",
+        "Buen día"
+      ],
+      "respuestas": [
+        "Hello da manito, espero tengas un buen dia",
+        "Hola, gracias por visitarnos",
+        "Hola, ¿qué puedo hacer por ti?",
+        "Hola, ¿cómo puedo ayudar?"
+      ]
+    },
+    {
+      "etiqueta": "adios",
+      "patrones": ["Adiós", "Hasta luego", "Adiós"],
+      "respuestas": [
+        "Hasta luego, gracias por visitarnos",
+        "Que tengas un buen día",
+        "¡Adiós! Vuelve pronto."
+      ]
+    },
+    {
+      "etiqueta": "gracias",
+      "patrones": ["Gracias", "Gracias", "Eso es útil", "¡Muchas gracias!"],
+      "respuestas": ["¡Feliz de ayudar!", "¡En cualquier momento!", "Es un placer"]
+    },
+    {
+      "etiqueta": "triste",
+      "patrones": [
+        "estoy triste",
+        "tuve un mal dia",
+        "se murio un familiar",
+        "hoy fue un dia triste"
+      ],
+      "respuestas": [
+        "No es lo que tienes o quién eres o dónde estás o qué haces lo que te hace feliz o infeliz. Es lo que piensas sobre ello",
+        "Levanta tu frente ante los demás, solo miran hacia abajo los que temen caer y los que ocultan algo"
+      ]
+    },
+    {
+      "etiqueta": "feliz",
+      "patrones": [
+        "tuve un dia estupendo",
+        "me fue bien hoy",
+        "hoy es mi cumpleaños",
+        "fin de semana"
+      ],
+      "respuestas": [
+        "Que bueno que te este llendo bien, sique asi y triunfaras en la vida",
+        "Todo lo que puedas imaginar es real"
+      ]
+    },
+    {
+      "etiqueta": "miedo",
+      "patrones": [
+        "tengo miedo",
+        "me siento triste"
+      ],
+      "respuestas": [
+        "No insistas en el pasado, no sueñes en el futuro, concentra tu mente en el momento presente",
+        "Todo el secreto de la vida se resume a vivirla sin miedo",
+	      "No tengas miedo"
+      ]
+    },
+    {
+      "etiqueta": "gracioso",
+      "patrones": [
+        "¡Cuéntame un chiste!",
+        "¡Dime algo gracioso!",
+        "¿Conoces un chiste?"
+      ],
+      "respuestas": [
+        "¿Por qué el hipster se quemó la boca? Se bebió el café antes de que se enfriara",
+        "-TOC TOC +¿Quien es? -Lola +¿Que lola? -LOLADRONES +Esperame que estoy con lame -¿Lame? +LAMETRALLDORA",
+        "¿Sabes cómo se queda un mago después de comer? ......-Magordito",
+        "¿Qué le dice un techo a otro? ...Techo de menos."
+      ]
+    },
+    {
+      "etiqueta": "ira",
+      "patrones": [
+        "estoy molesto",
+        "todo me molesta",
+        "mi amiga me fallo",
+        "mi amigo me fallo"
+      ],
+      "respuestas": [
+        "La ira nos daña a nosotros mismos",
+        "La ira nace de la debilidad y la inferioridad"
+      ]
+    },
+    {
+      "etiqueta": "estresado",
+      "patrones": [
+        "estoy estresado",
+        "tengo mucha tarea",
+        "la universidad me estresa",
+        "tengo mucho trabajo"
+      ],
+      "respuestas": [
+        "No hay carga más pesada que tratar de controlar lo que los demás piensan de ti",
+        "Si te rodeas de personas que son luz, lo verás todo más claro"
+      ]
+    },
+    {
+      "etiqueta": "nervioso",
+      "patrones": [
+        "estoy nervioso",
+        "tengo un examen hoy",
+        "tengo cita",
+        "hoy sale los resultados"
+      ],
+      "respuestas": [
+        "Las cuerdas que están siempre tensas terminan desafinando",
+        "Los nervios son la única cosa de la que no te puedes librar perdiéndolos"
+      ]
+    }
+  ]
+}
